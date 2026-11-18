@@ -36,3 +36,5 @@ Because this system is built entirely as a pure **frontend application framework
 
 ## 🔒 Runtime Limitation Note
 This layout behaves as a **100% frontend template implementation**. The system database is saved inside browser temporary array configurations. Refreshing the browser or closing the window will restore the template dashboard back to its default baseline state.
+
+[Click to View](https://minshida-latheef.github.io/student-management-system/)
